@@ -1,2 +1,1 @@
-# landing-page
-landing page
+![landing page](images/landing-page.jpg)
